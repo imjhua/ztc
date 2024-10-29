@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "매일영어",
-    "slug": "zta",
-    "scheme": "zta",
+    "name": "프리다이빙 용어집",
+    "slug": "ztc",
+    "scheme": "ztc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.idlt.zta",
+      "bundleIdentifier": "com.idlt.ztc",
       "config": {
         "usesNonExemptEncryption": false
       },
@@ -33,7 +33,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "f500d7f1-feec-48e1-a162-1d9f912a7aed"
+        "projectId": "f76ca3c2-eac8-4f30-95e7-817f1378f65b"
       }
     },
     "owner": "idltapps"
